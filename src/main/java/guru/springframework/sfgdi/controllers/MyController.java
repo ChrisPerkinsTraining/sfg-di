@@ -4,6 +4,7 @@ import guru.springframework.sfgdi.services.GreetingService;
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Controller;
 
+@Primary
 @Controller
 public class MyController {
 
