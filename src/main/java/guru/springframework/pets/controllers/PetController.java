@@ -1,6 +1,6 @@
-package guru.springframework.sfgdi.controllers;
+package guru.springframework.pets.controllers;
 
-import guru.springframework.sfgdi.services.PetService;
+import guru.springframework.pets.services.PetService;
 import org.springframework.stereotype.Controller;
 
 /**
